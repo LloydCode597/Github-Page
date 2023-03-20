@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lloyd Allen</h1>
-<h3 align="center">A passionate developer from Baton Rouge, LA</h3>
+<h3 align="center">A passionate Software Developer from Baton Rouge, LA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydallen597&label=Profile%20views&color=0e75b6&style=flat" alt="lloydallen597" /> </p>
 
