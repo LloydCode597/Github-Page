@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development and Game Development**
 
-- 👨‍💻 All of my projects are available at [(https://lloydcode597.github.io/Portfolio-V2/)](https://lloydcode597.github.io/Portfolio-V2/)
+- 👨‍💻 All of my projects are available at [(https://lloydcode597.github.io/Portfolio/)](https://lloydcode597.github.io/Portfolio/)
 
 
 - 📫 How to reach me **lloydallen597@gmail.com**
